@@ -1,4 +1,4 @@
-![Texto alternativo](https://github.com/drpauloerc20/protocolo-summer/blob/main/protocol%20sun.svg)
+![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocol%20sun.svg)
 
 __Un protocolo de seguridad para una DeFi __ 
  
