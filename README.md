@@ -1,6 +1,6 @@
 ![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocol%20sun.svg)
 
-__Un protocolo de seguridad para una DeFi __ 
+__El protocolo Sun es un protocolo de seguridad para una DeFi __ 
  
 Autor: ___Dr Paulo Morocho___ 
 
@@ -44,11 +44,11 @@ c.- Si existe una gran corruptibilidad del sistema, la plataforma crea un nuevo 
 
 Lo que hace el protocolo es quitar este mecanismo de valorización del activo y suplantarlo por un sistema de gobernabilidad que es activado por periodos trimestrales.
 
-![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocol%20sun.svg)
+![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocolo-sun1.png)
 
 Lo que hace el protocolo es quitar este mecanismo de valorización del activo y suplantarlo por un sistema de gobernabilidad en donde se establezca el reparto de ganancias, rentabilidad y valor de la criptomoneda o token. 
 
-![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocol%20sun.svg)
+![Texto alternativo](https://github.com/drpauloerc20/sun-protocol/blob/main/protocolo-sun2.png)
 
 ##4.- Copia instantánea de volumen
  
