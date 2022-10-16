@@ -4,7 +4,7 @@ __El protocolo Sun es un protocolo de seguridad para una DeFi__
  
 Autor: ___Dr Paulo Morocho___ 
 
-Email: drpaulitoc@beorus.com
+Email: drpaulitoc@allmedgroup.org
     
 *Actualización: Mayo 04, 2021* 
  
